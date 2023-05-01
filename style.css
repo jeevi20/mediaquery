@@ -81,7 +81,7 @@ footer {
   }
 }
 
-@media(max-width:649.9px) and (min-width:332px){
+@media(max-width:649.9px){
   .left , .right{
     float: none;
     width:auto;
